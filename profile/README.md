@@ -1,4 +1,4 @@
-#Institute for Digital Security and Behaviour
+# Institute for Digital Security and Behaviour
 
 The Institute for Digital Security and Behaviour in the University of Bath launched in 2024 under the leadership of co-Directors Professor Laura Smith and Professor Adam Joinson.
 
